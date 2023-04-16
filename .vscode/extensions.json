@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "ms-python.python", // https://marketplace.visualstudio.com/items?itemName=ms-python.python
+    "ms-python.black-formatter", // https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter
+    "streetsidesoftware.code-spell-checker" // https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+  ]
+}
